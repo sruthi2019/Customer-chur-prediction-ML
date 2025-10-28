@@ -35,6 +35,3 @@ These insights can help businesses design retention strategies and reduce custom
 
 ---
 
-## 👩‍💻 Author
-*Sruthi Guntuku*  
-Machine Learning Enthusiast | Data Analyst | Python Developer
